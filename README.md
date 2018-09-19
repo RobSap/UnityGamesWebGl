@@ -26,11 +26,11 @@ Android projects will be linked soon.
 ###Playable Games
 
 ####Rolla Ball
-![Rolla Ball](/images/BallRoller.jpg)
+[Rolla Ball](/images/BallRoller.jpg)
 Info: ![Rolla Ball](BallRoller/index.html)
 
 ####UFO Game
-![UFO Game](images/UFOGame.jpg)
+[UFO Game](images/UFOGame.jpg)
 Info: ![Rolla Ball](/images/UFOGame/index.html)
 
 ####Rolla Ball
