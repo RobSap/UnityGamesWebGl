@@ -21,13 +21,13 @@ Android projects will be linked soon.
 ### Playable Games
 
 #### Rolla Ball
-[![Rolla Ball](images/BallRoller.jpg | width=100)](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html)
+[![Rolla Ball](images/BallRoller.jpg)](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html)
 
 Info: [Rolla Ball](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html) This game is just one level. The boll falls. If you are stuck up above, you lose. If you fall before the floor comes up, you lose. Make it to the end !
 
 
 #### UFO Game
-[![UFO Game](images/UFOGame.jpg | width=100)](https://robsap.github.io/UnityGamesWebGl/UFOGame/index.html)
+[![UFO Game](images/UFOGame.jpg)](https://robsap.github.io/UnityGamesWebGl/UFOGame/index.html)
 
 Info: [UFO Game](https://robsap.github.io/UnityGamesWebGl/UFOGame/index.html) UFO Game. 5 levels. Collect the Cubes, and avoid others.
 
