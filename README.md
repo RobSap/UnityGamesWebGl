@@ -28,7 +28,7 @@ Info: [Rolla Ball](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.htm
 
 ####UFO Game
 [![UFO Game](images/UFOGame.jpg)](https://robsap.github.io/UnityGamesWebGl/UFOGame/index.html)
-Info: ![UFO Game](https://robsap.github.io/UnityGamesWebGl/UFOGame/index.html) UFO Game. 5 levels. Collect the Cubes, and avoid others.
+Info: [UFO Game](https://robsap.github.io/UnityGamesWebGl/UFOGame/index.html) UFO Game. 5 levels. Collect the Cubes, and avoid others.
 
 ####Breakout
 [![Breakout](/images/breakout.jpg)](https://robsap.github.io/UnityGamesWebGl/Breakout/index.html)
