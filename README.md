@@ -25,60 +25,63 @@ Android projects will be linked soon.
 							 
 ###Playable Games
 
+####Rolla Ball
 ![Rolla Ball](/images/BallRoller.jpg)
-Format: ![Rolla Ball](BallRoller/index.html)
+Info: ![Rolla Ball](BallRoller/index.html)
+
+####UFO Game
+![UFO Game](images/UFOGame.jpg)
+Info: ![Rolla Ball](/images/UFOGame/index.html)
+
+####Rolla Ball
+![Rolla Ball](/images/BallRoller.jpg)
+Info: ![Rolla Ball](BallRoller/index.html)
+
+####Rolla Ball
+![Rolla Ball](/images/BallRoller.jpg)
+Info: ![Rolla Ball](BallRoller/index.html)
+
+####Rolla Ball
+![Rolla Ball](/images/BallRoller.jpg)
+Info: ![Rolla Ball](BallRoller/index.html) UFO Game. 5 levels. Collect the Cubes, and avoid others.
 
 
-				<div class="img">
-					<a target="_blank" href="BallRoller/index.html">
-						<img src="images/BallRoller.jpg" alt="Rolla Ball" width="150" height="100">
-					</a>
-					<div class="desc">Classic ball falling from the sky, and you must make it to the bottom. Only 1 level.</div>
-					
-				</div><div class="img">
-					<a target="_blank" href="UFOGame/index.html">
-						<img src="images/UFOGame.jpg" alt="UFO Game" width="150" height="100">
-					</a>
-					<div class="desc">UFO Game. 5 levels. Collect the Cubes, and avoid others.</div>
-				</div>
-				
-				
-				
-				<div class="img">
+
 					<a target="_blank" href="Breakout/index.html">
 						<img src="images/breakout.jpg" alt="Breakout" width="150" height="100">
 					</a>
 					<div class="desc">Simple breakout game. 1 level, 5 lives. Working on more levels, high score and other features.</div>
-				</div>
-								
-				<div class="img">
+					
+--
+
+
 					<a target="_blank" href="TowerDefense/index.html">
 						<img src="images/evoTowerDefense.jpg" alt="Coming Soon" width="150" height="100">
 					</a>
 					<div class="desc">Group project for school. Evolution tower defence. Look at the options for difficulty and sound.</div>
-				</div>
-				
-				<div class="img">
+
+--
+
 					<a target="_blank" href="SpaceShooter/index.html">
 						<img src="images/SpaceShooter.jpg" alt="Alt Image Name" width="150" height="100">
 					</a>
 					<div class="desc">Classic Space Shooter. Based off Unity's Tutorial. 3 Levels with 2 waves</div>
 				</div>
-				
+--
 				<div class="img">
 					<a target="_blank" href="#">
 						<img src="images/comingsoon.jpg" alt="Coming Soon" width="150" height="100">
 					</a>
 					<div class="desc">Description of my project Image here</div>
 				</div>
-				
+--
 				<div class="img">
 					<a target="_blank" href="#">
 						<img src="images/comingsoon.jpg" alt="Coming Soon" width="150" height="100">
 					</a>
 					<div class="desc">Description of my project Image here</div>
 				</div>
-				
+--
 				<div class="img">
 					<a target="_blank" href="#">
 						<img src="images/comingsoon.jpg" alt="Coming Soon" width="150" height="100">
