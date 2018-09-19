@@ -10,8 +10,6 @@ This repository uses GitHub Pages and Markdown files.
 5. [Machine Learning](https://robsap.github.io/#)
 6. [Deep Learning](https://robsap.github.io/#)
 7. [Group Projects](https://robsap.github.io/#)
-  a. [Virtual Pond](https://robsap.github.io/#) - An Address Book
-  b. [Tower Defense](https://robsap.github.io/#)
 8. [Interview Practice Problems](https://robsap.github.io/#)
 9. [Parallel Programming](https://robsap.github.io/#)
 10. [Other](https://robsap.github.io/#)
@@ -25,7 +23,7 @@ Android projects will be linked soon.
 #### Rolla Ball
 [![Rolla Ball](images/BallRoller.jpg)](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html)
 
-Info: [Rolla Ball](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html)
+Info: [Rolla Ball](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html) This game is just one level. The boll falls. If you are stuck up above, you lose. If you fall before the floor comes up, you lose. Make it to the end !
 
 
 #### UFO Game
