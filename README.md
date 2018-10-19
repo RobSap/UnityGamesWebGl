@@ -1,8 +1,10 @@
 
-### Playable Unity Games
-This is a list of my Unity Based Projects. Click on the links to play, or select other projects to view source code.
-Android projects will be linked soon.
-							 
+## Welcome to Rob's GitHub Pages
+
+This repository uses GitHub Pages and Markdown files. Click [here](https://robsap.github.io/UnityGamesWebGl/) to view as a webpage.
+
+### Projects
+These are all Unity projects. Some were designed for mobile, but ported to WebGL.
 
 #### Rolla Ball
 [![Rolla Ball](images/BallRoller.jpg)](https://robsap.github.io/UnityGamesWebGl/BallRoller/index.html)
