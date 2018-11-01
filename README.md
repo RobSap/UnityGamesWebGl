@@ -1,7 +1,7 @@
 
 ## Welcome to Rob's GitHub Pages
 
-This repository uses GitHub Pages and Markdown files. Click [here](https://robsap.github.io/UnityGamesWebGl/) to view as a webpage.
+This repository uses GitHub Pages and Markdown files. Click [here](https://robsap.github.io/UnityGamesWebGl.html) to view as a webpage.
 
 ### Projects
 These are all Unity projects. Some were designed for mobile, but ported to WebGL.
